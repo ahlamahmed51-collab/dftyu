@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://dftyu.vercel.app/sitemap.xml
